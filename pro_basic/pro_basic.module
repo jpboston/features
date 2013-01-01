@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Pro Basic feature.
+ */
+
+include_once 'pro_basic.features.inc';
